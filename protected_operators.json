@@ -1,0 +1,28 @@
+{
+    "conditionals": [
+        "if", "when", "unless", "provided", "given", "assuming",
+        "whenever", "whereas", "in case", "otherwise"
+    ],
+    "negations": [
+        "not", "never", "no", "fails", "without", "neither",
+        "nor", "cannot", "doesn't", "isn't", "won't", "shouldn't"
+    ],
+    "comparisons": [
+        ">", "<", ">=", "<=", "==", "!=",
+        "exceeds", "below", "above", "greater", "less",
+        "equal", "between", "within", "over", "under"
+    ],
+    "conjunctions": [
+        "and", "or", "but", "nor", "yet", "both", "either"
+    ],
+    "actions": [
+        "fails", "triggers", "activates", "shuts down",
+        "active", "inactive", "starts", "stops", "runs",
+        "halts", "pauses", "resumes", "resets", "overheats",
+        "overloads", "disconnects", "connects"
+    ],
+    "quantifiers": [
+        "all", "every", "any", "none", "some", "most",
+        "always", "never", "only"
+    ]
+}
